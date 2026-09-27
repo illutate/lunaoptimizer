@@ -1,0 +1,12 @@
+{
+  "onboarding_complete": false,
+  "start_with_windows": false,
+  "reduce_animations": false,
+  "starfield": true,
+  "log_level": "INFO",
+  "auto_backup": true,
+  "confirm_risky": true,
+  "auto_diagnostics": true,
+  "animation_intensity": 1.0,
+  "portable": false
+}
